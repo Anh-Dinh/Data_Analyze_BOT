@@ -1,0 +1,20 @@
+cookiecutter: automate create a data science project folder 
+
+
+project_name [project_name]: dagpt
+repo_name [dagpt]: dagpt
+module_name [dagpt]: src
+author_name [Your name (or your organization/company/team)]: AnhDinh 
+description [A short description of the project.]:
+
+Auto click
+
+preview readme.md 
+
+src is to save all code file in 
+
+delete unneed file 
+
+create virtual env
+
+.gitignore: save all the file that will be ignored when publish to GitHub
